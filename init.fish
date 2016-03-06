@@ -31,4 +31,3 @@ function init --on-event init_rvm
     end
   end
 end
-
